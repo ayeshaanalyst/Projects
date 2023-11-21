@@ -1,2 +1,2 @@
-# Sql-Projects
-This is my sql project on movies data set ,showcase of my skills in data acquisition, cleaning, analysis, and filtering. 
+# Projects
+These are  projects that ,showcase of my skills in data acquisition, cleaning, analysis, and filtering. 
